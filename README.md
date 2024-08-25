@@ -131,19 +131,19 @@ Programador. Estudante. Entusiasta de IA.
 <div align="center">
   <!-- Instagram -->
   <a href="https://www.instagram.com/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=870&format=png&color=cb49fc" height="30" alt="Instagram" />
+    <img src="https://img.icons8.com/?size=100&id=32309&format=png&color=8E44AD" height="30" alt="Instagram" />
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/8E44AD/linkedin.png" height="30" alt="LinkedIn" />
+    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=8E44AD" height="30" alt="LinkedIn" />
   </a>
   <!-- WhatsApp -->
   <a href="https://wa.me/5515981888676" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/8E44AD/whatsapp.png" height="30" alt="WhatsApp" />
+    <img src="https://img.icons8.com/?size=100&id=9730&format=png&color=8E44AD" height="30" alt="WhatsApp" />
   </a>
   <!-- Gmail -->
   <a href="mailto:ricardo.23.03.1749@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/8E44AD/gmail.png" height="30" alt="Gmail" />
+    <img src="https://img.icons8.com/?size=100&id=Y2GfpkgYNp42&format=png&color=8E44AD" height="30" alt="Gmail" />
   </a>
 </div>
 

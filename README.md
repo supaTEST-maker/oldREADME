@@ -26,11 +26,10 @@ Programador. Estudante. Entusiasta de IA.
 > 🔑 7 Repositórios Privados 
  > 
 
-###
+### Habilidades
   <!-- Imagem adicional -->
   <img align="right" src="Computer.png" alt="Purple Computer" height="250" />
 
-### Habilidades
 <div align="left">
   <!-- Icones de habilidades -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />

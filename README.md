@@ -131,7 +131,7 @@ Programador. Estudante. Entusiasta de IA.
 <div align="center">
   <!-- Instagram -->
   <a href="https://www.instagram.com/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=870&format=png&color=000000" height="30" alt="Instagram" />
+    <img src="https://img.icons8.com/?size=100&id=870&format=png&color=cb49fc" height="30" alt="Instagram" />
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank">

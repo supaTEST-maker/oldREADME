@@ -136,7 +136,7 @@ Programador. Estudante. Entusiasta de IA.
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=8E44AD" height="35" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- WhatsApp -->
   <a href="https://wa.me/5515981888676" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=9730&format=png&color=8E44AD" height="35" alt="WhatsApp" />
@@ -147,9 +147,7 @@ Programador. Estudante. Entusiasta de IA.
   </a>
 </div>
 
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram-new--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram-new--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/instagram-new--v1.png" alt="instagram-new--v1"/>
+
 
 
 

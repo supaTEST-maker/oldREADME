@@ -152,34 +152,7 @@ Programador. Estudante. Entusiasta de IA.
 
 
 
-
-
-
-
-
-
-<!-- Links para redes sociais com ícones Lucide -->
-<div align="center">
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
-    <img src="https://lucide.dev/icons/instagram.svg" height="30" alt="Instagram" style="fill:#8E44AD;" />
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank">
-    <img src="https://lucide.dev/icons/linkedin.svg" height="30" alt="LinkedIn" style="fill:#8E44AD;" />
-  </a>
-  <!-- WhatsApp -->
-  <a href="https://wa.me/5515981888676" target="_blank">
-    <img src="https://lucide.dev/icons/phone-call.svg" height="30" alt="WhatsApp" style="fill:#8E44AD;" />
-  </a>
-  <!-- Gmail -->
-  <a href="mailto:ricardo.23.03.1749@gmail.com" target="_blank">
-    <img src="https://lucide.dev/icons/mail.svg" height="30" alt="Gmail" style="fill:#8E44AD;" />
-  </a>
-</div>
-
-
-
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-instagram"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg>
 
 
 

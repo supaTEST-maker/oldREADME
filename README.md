@@ -120,24 +120,26 @@ Programador. Estudante. Entusiasta de IA.
 | Cinza Escuro  | `#8892B0` | Texto Secundário      |
 
 
-<!-- Seção Dicas e Truques -->
-# 💡 Dicas & Truques
+<!-- Links para redes sociais com ícones -->
+<div align="center">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/-8E44AD?logo=instagram&logoColor=white&style=for-the-badge" height="26" alt="Instagram" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ricardo-andreotti-gonçalves-0b5785283" target="_blank">
+    <img src="https://img.shields.io/badge/-8E44AD?logo=linkedin&logoColor=white&style=for-the-badge" height="26" alt="LinkedIn" />
+  </a>
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5515981888676" target="_blank">
+    <img src="https://img.shields.io/badge/-8E44AD?logo=whatsapp&logoColor=white&style=for-the-badge" height="26" alt="WhatsApp" />
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:ricardo.23.03.1749@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-8E44AD?logo=gmail&logoColor=white&style=for-the-badge" height="26" alt="Gmail" />
+  </a>
+</div>
 
-- **Atalhos do VS Code**: Utilize `Ctrl + Shift + P` para acessar rapidamente comandos no editor.
-- **Hooks do React**: Prefira `useEffect` para sincronizar o estado da aplicação com efeitos colaterais.
-- **Git**: Evite commits "WIP" para manter o histórico limpo e organizado.
-
-
-### 2. Seção de "Dicas & Truques"
-Uma seção dedicada a compartilhar dicas e truques, que você aprendeu ou considera úteis, é algo que agrega valor para quem visita o seu perfil.
-
-
-<!-- Seção Dicas e Truques -->
-# 💡 Dicas & Truques
-
-- **Atalhos do VS Code**: Utilize `Ctrl + Shift + P` para acessar rapidamente comandos no editor.
-- **Hooks do React**: Prefira `useEffect` para sincronizar o estado da aplicação com efeitos colaterais.
-- **Git**: Evite commits "WIP" para manter o histórico limpo e organizado.
 
 
 

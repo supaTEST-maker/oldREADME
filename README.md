@@ -156,5 +156,4 @@ Programador. Estudante. Entusiasta de IA.
 
 
 
-
 ![Purple SVG](./purple.svg)

@@ -132,7 +132,7 @@ Programador. Estudante. Entusiasta de IA.
   </a>
   <!-- WhatsApp -->
   <a href="https://wa.me/5515981888676" target="_blank">
-    <img src="https://img.shields.io/badge/-8E44AD?logo=whatsapp&logoColor=white&style=for-the-badge" height="26" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/-8E44AD?logo=whatsapp&logoColor=white&style=for-the-badge" height="40" alt="WhatsApp" />
   </a>
   <!-- Gmail -->
   <a href="mailto:ricardo.23.03.1749@gmail.com" target="_blank">
